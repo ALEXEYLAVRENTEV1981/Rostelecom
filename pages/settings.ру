@@ -22,8 +22,8 @@ valid_login = os.getenv('login')
 valid_password = os.getenv('password')
 invalid_ls = '242010005665'
 
-valid_email = 'm0dfha@wuuvo.com'
-valid_pass_reg = '!A$A&BccA2'
+valid_email = 'y834qriz78@wuuvo.com'
+valid_pass_reg = '13579Alex'
 
 
 def generate_string_rus(n):
