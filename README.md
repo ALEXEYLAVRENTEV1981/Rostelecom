@@ -3,6 +3,7 @@ Rostelecom - итоговый проект
 Автоматизированное тестирование страницы https://b2c.passport.rt.ru сайта "Ростелеком"
 
 При тестировании сайта были написаны:https://drive.google.com/drive/folders/154FKN7uzzPsCMzneJwBhLeUSc39GyWY9?usp=sharing
+(https://docs.google.com/spreadsheets/d/17jrMepjbfwnMl3Yqup-pbSCPgHzVQg5c/edit?usp=drive_link&ouid=105075514133398041468&rtpof=true&sd=true)
 
 ручные чек-лист, тест-кейсы и баг- репорты:
 автоматизированные тесты.
